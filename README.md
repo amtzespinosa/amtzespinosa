@@ -7,10 +7,10 @@ I get excited about the challenge of getting into places (legally) I should not 
 <div align="center">
 
 <a href="https://github.com/amtzespinosa/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amtzespinosa&rank_icon=github&hide=contribs&show_icons=true&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amtzespinosa&rank_icon=github&hide=contribs&show_icons=true&card_width=300" />
 </a>
 <a href="https://github.com/amtzespinosa/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amtzespinosa&hide=scss,css&layout=compact&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amtzespinosa&hide=scss,css&layout=compact&card_width=300" />
 </a>
 
 </div>
