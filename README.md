@@ -13,10 +13,10 @@ I get excited about the challenge of getting into places (legally) I should not 
 <div align="center">
 
 <a href="https://github.com/amtzespinosa/">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amtzespinosa" />
+  <img height=180 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amtzespinosa" />
 </a>
 <a href="https://github.com/amtzespinosa/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amtzespinosa&hide=scss,css&layout=compact" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amtzespinosa&hide=scss,css&layout=compact" />
 </a>
 
 </div>
