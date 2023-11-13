@@ -30,6 +30,10 @@ I get excited about the challenge of getting into places (legally) I should not 
 
 You can download my full resume in [pdf](https://amtzespinosa.github.io/assets/docs/alejandro_martinez_espinosa_resume.pdf) format.
 
-## Languages I use
+## Skills
 
-![My Skills](https://skillicons.dev/icons?i=python,bash,html,css,js,php,c,cpp)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress,cloudflare,firebase,python,java,c,mysql,md,bash,linux,raspberrypi&perline=5)
+
+## IDEs and tools I use
+
+![IDE](https://skillicons.dev/icons?i=vscode,eclipse,idea,arduino,figma)
