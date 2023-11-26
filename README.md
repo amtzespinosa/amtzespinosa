@@ -37,18 +37,3 @@ You can download my full resume in [pdf](https://amtzespinosa.github.io/assets/d
 ## IDEs and tools I use
 
 ![IDE](https://skillicons.dev/icons?i=vscode,eclipse,idea,arduino,figma)
-
-<br>
-<div style="display: inline-flex; box-shadow: 2px 2px 8px 4px #d3d3d388; border-radius: 15px; padding: 10px; background-color: #ededed; width: 100%;">
-
-    <img src="../assets/img/pages/monero.png" alt="Monero" style="height:120px; width:120px; vertical-align: middle; margin: 20px; margin-left: 10px;">
-
-    <div style="width:80%; margin: 10px;">
-        <p style="font-size: 25px; vertical-align: auto; color: #000000b9;"><b>Support my content!</b></p>
-        <p>
-            <b>Monero wallet:</b>
-            <a href="../assets/img/pages/donate.png">8AZz1VxWDQr1oQ3bxgKZHF2GzJQjFjW1K4BY4h3JmnLyQ9wpt1MADKNVuDAnyN814sZfahkpd4zNxKe2bqLPjW9XRjmExiQ</a>
-        </p>
-    </div>
-
-</div>
