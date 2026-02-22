@@ -15,17 +15,13 @@ I get excited about the challenge of getting into places (legally) I should not 
 <a href="https://github.com/amtzespinosa/">
   <img height=180 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amtzespinosa" />
 </a>
-
 </div>
 
 ## About me... 
 
-- :closed_lock_with_key: Freelance physical & digital pentester
+- :closed_lock_with_key: Freelance Pentester & Read Team Operator
 - :feelsgood: Former Special Forces Operator
 - :musical_score: I love Heavy Metal
-- :computer: Used to be a web developer
-
-You can download my full resume in [pdf](https://amtzespinosa.github.io/assets/docs/alejandro_martinez_espinosa_resume.pdf) format.
 
 ## Skills
 
