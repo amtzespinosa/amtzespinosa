@@ -15,9 +15,6 @@ I get excited about the challenge of getting into places (legally) I should not 
 <a href="https://github.com/amtzespinosa/">
   <img height=180 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amtzespinosa" />
 </a>
-<a href="https://github.com/amtzespinosa/">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amtzespinosa&hide=scss,css&layout=compact" />
-</a>
 
 </div>
 
