@@ -19,12 +19,11 @@ I get excited about the challenge of getting into places (legally) I should not 
   <img height=180 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amtzespinosa&utcOffset=1" />
 </a>
 <a href="https://github.com/amtzespinosa/">
-  <img height=180 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=amtzespinosa&show_icons=true&mode=weekly" />
-</a>
-<a href="https://github.com/amtzespinosa/">
   <img height=180 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amtzespinosa&langs_count=10&layout=compact" />
 </a>
-
+<a href="https://github.com/amtzespinosa/">
+  <img height=180 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=amtzespinosa&show_icons=true&mode=weekly" />
+</a>
 </div>
 
 ## About me... 
