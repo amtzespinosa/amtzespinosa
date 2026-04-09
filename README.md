@@ -28,7 +28,7 @@ I get excited about the challenge of getting into places (legally) I should not 
 
 ## About me... 
 
-- :closed_lock_with_key: Freelance Pentester & Read Team Operator
+- :closed_lock_with_key: Freelance Pentester & Red Team Operator
 - :feelsgood: Former Special Forces Operator
 - :musical_score: I love Heavy Metal
 
